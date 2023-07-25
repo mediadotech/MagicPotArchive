@@ -1,0 +1,2 @@
+# MagicPotArchive
+Magipotの実行ファイルをバージョン別に収納
